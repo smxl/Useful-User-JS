@@ -1,0 +1,16 @@
+{
+    "sites": [
+        { "name": "艾旦|点播", "type": 1, "api": "https://lovedan.net/api.php/provide/vod/" },
+        { "name": "黑木耳|点播", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod/" },
+        { "name": "暴风|点播", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/" }, 
+        { "name": "极速|点播", "type": 1, "api": "https://jszyapi.com/api.php/provide/vod/" },
+        { "name": "魔都动漫|点播", "type": 1, "api": "https://caiji.moduapi.cc/api.php/provide/vod/" },
+        { "name": "飘零|点播", "type": 1, "api": "https://p2100.net/api.php/provide/vod/" },
+        { "name": "天空|点播", "type": 1, "api": "https://api.tiankongapi.com/api.php/provide/vod/" },
+        { "name": "速博|点播", "type": 1, "api": "https://subocaiji.com/api.php/provide/vod/" },
+        { "name": "卧龙|点播", "type": 1, "api": "https://collect.wolongzy.cc/api.php/provide/vod/" },
+        { "name": "无尽|点播", "type": 1, "api": "https://api.wujinapi.com/api.php/provide/vod/" },
+        { "name": "最大|点播", "type": 1, "api": "https://api.zuidapi.com/api.php/provide/vod/" },
+        { "name": "华为吧|点播", "type": 1, "api": "https://cjhwba.com/api.php/provide/vod/" }
+    ]
+}
